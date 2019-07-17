@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.isbjornlabs.flutter_app">
+    package="com.isbjornlabs.flutter_app"
+    android:versionCode="1"
+    android:versionName="1.0">
 
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
