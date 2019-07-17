@@ -1,4 +1,4 @@
-package com.example.flutter_app;
+package com.isbjornlabs.flutter_app;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
