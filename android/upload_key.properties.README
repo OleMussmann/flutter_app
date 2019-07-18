@@ -1,0 +1,10 @@
+# Properties file for the upload key
+
+Create a properties file for the upload key with the name `upload_key.properties` with the content:
+
+```
+storePassword=YOUR_PASSWORD
+keyPassword=YOUR_PASSWORD
+keyAlias=upload
+storeFile=upload.keystore
+```

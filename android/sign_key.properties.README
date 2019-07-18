@@ -1,0 +1,10 @@
+# Properties file for the sign key
+
+Create a properties file for the signing key with the name `sign_key.properties` with the content:
+
+```
+storePassword=YOUR_PASSWORD
+keyPassword=YOUR_PASSWORD
+keyAlias=sign
+storeFile=sign.keystore
+```

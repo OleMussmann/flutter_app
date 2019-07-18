@@ -66,7 +66,7 @@
 
 # Keys
 *.keystore
-key.properties
+*key.properties
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
